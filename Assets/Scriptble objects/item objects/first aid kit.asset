@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c971a286c43481243bbee75c1da67837, type: 3}
+  m_Name: first aid kit
+  m_EditorClassIdentifier: 
+  itemName: FirstAidKit
+  icon: {fileID: 21300000, guid: 431f7e1ad5d887b4f90028dddba27302, type: 3}
+  itemType: Heal
+  maxStack: 6
+  mass: 1
